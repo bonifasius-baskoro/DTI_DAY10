@@ -15,4 +15,7 @@ public class DVD extends  Material{
         this.genre= genre;
     }
 
+    public String getGenre() {
+        return genre;
+    }
 }
